@@ -1,0 +1,21 @@
+product_id,product_name,category,unit_price
+1,Rice,Groceries,180
+2,Sugar,Groceries,160
+3,Cooking Oil,Groceries,350
+4,Maize Flour,Groceries,120
+5,Wheat Flour,Groceries,150
+6,Milk,Dairy,70
+7,Bread,Bakery,65
+8,Eggs,Dairy,25
+9,Tea,Beverages,120
+10,Coffee,Beverages,300
+11,Soap,Household,100
+12,Toothpaste,Personal Care,150
+13,Detergent,Household,250
+14,Biscuits,Snacks,50
+15,Juice,Beverages,100
+16,Water,Beverages,50
+17,Pasta,Groceries,130
+18,Beans,Groceries,170
+19,Salt,Groceries,40
+20,Cereal,Breakfast,220
